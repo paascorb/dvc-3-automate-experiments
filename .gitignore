@@ -15,3 +15,6 @@ data
 
 ## Mac OS
 .DS_Store
+
+.env
+.venv
